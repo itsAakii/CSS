@@ -1,0 +1,28 @@
+body {
+background-image:url("333.jpg")
+
+}
+
+h3 {
+	color:skyblue;
+}
+.mid {
+margin:auto;
+margin-top:80px;
+height:200px;
+width:400px;
+background-color:#00ffff;
+padding:120px;
+}
+.form {
+width:250px;
+height:180px;
+background-color:white;
+margin:auto;
+padding:50px;
+}
+ #a {
+	width:177px;
+	height:20px;
+	background-color:skyblue;
+ }
